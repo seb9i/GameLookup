@@ -1,7 +1,6 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
@@ -12,7 +11,6 @@
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "node-fetch": "^3.3.2",
-    
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
     "react-horizontal-scrolling-menu": "^7.1.1",
@@ -25,7 +23,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -45,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
