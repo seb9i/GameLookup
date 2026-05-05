@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GameLookup/static/css/main.99bcfb5d.css",
+    "main.js": "/GameLookup/static/js/main.78bb0cab.js",
+    "static/js/453.e9e7ec89.chunk.js": "/GameLookup/static/js/453.e9e7ec89.chunk.js",
+    "index.html": "/GameLookup/index.html",
+    "main.99bcfb5d.css.map": "/GameLookup/static/css/main.99bcfb5d.css.map",
+    "main.78bb0cab.js.map": "/GameLookup/static/js/main.78bb0cab.js.map",
+    "453.e9e7ec89.chunk.js.map": "/GameLookup/static/js/453.e9e7ec89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99bcfb5d.css",
+    "static/js/main.78bb0cab.js"
+  ]
+}
